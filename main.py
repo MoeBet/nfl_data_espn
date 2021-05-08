@@ -34,3 +34,4 @@ for _ in nfl_teams:
     score_holder_2 += 2
     team_holder += 2
     team_holder_2 += 2
+
